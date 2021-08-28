@@ -1,0 +1,26 @@
+body {
+    margin          : 10px auto;
+    width           : 80vw;
+    min-width       : 800px;
+    height          : 100vw;
+    background-color: solid whitesmoke;
+}
+
+html {
+    font-size          : 10px;
+    background         : linear-gradient(133deg,
+            rgba(235, 217, 181, 1) 0%,
+            rgb(118, 105, 236, 1) 50%,
+            rgba(89, 232, 247, 1) 100%);
+}
+
+header {
+    margin-bottom: 10px;
+}
+
+p,
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    text-align: center;
+}
